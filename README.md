@@ -13,7 +13,7 @@
 
 ## 💼 Projects
 
-### 🔗 [Time Genius](http://timeguru.org)
+### 🔗 [Time Genius](http://www.scheduleguru.org/)
 A web application built to manage time effectively. Users can register, log in, and track their productivity, with data stored in MongoDB and deployed using Heroku.
 
 
