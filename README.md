@@ -23,7 +23,7 @@ A web application built to manage time effectively. Users can register, log in, 
 - Database: MongoDB (Mongoose)
 - Deployment: Heroku
 
-### 💼 Financial Tracker Website (
+### 💼 Financial Tracker Website
 A **comprehensive financial tracking system** that helps users track investments, spending habits, and project financial growth. It features a user-friendly dashboard with data visualizations.
 
 **Tech Stack**: React, MongoDB, Express
