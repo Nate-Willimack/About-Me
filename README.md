@@ -58,4 +58,4 @@ Developed an elevator simulation using **Verilog** and displayed the floor numbe
 Feel free to reach out or explore my projects! I’m always open to collaboration and learning new things.
 
 - LinkedIn: [Nathan Willimack](https://www.linkedin.com/in/nathan-willimack/)
-- natewillimack@gmail.com
+- Email: natewillimack@gmail.com
