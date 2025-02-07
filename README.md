@@ -1,6 +1,6 @@
 # Nathan Willimack's GitHub Profile
 
-👋 Hi there! I'm **Nathan Willimack**, a passionate and driven software engineering student at **Iowa State University**, expecting to graduate in 2026. Welcome to my GitHub profile, where I showcase my journey in programming, UI/UX design, and project development!
+👋 Hi there! I'm **Nathan Willimack**, a passionate and driven software engineering student at **Iowa State University**, expecting to graduate in 2026. Welcome to my GitHub profile, where I showcase my journey in programming, UI/UX design, and project development! Please check out my pinned projects repository, as it does a way better job of showcasing my skills!
 
 ## 🌟 About Me
 
